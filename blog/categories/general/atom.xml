@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: General | Probably Approximately Incorrect]]></title>
+  <link href="http:///blog/categories/general/atom.xml" rel="self"/>
+  <link href="http:///"/>
+  <updated>2015-10-17T13:32:25-07:00</updated>
+  <id>http:///</id>
+  <author>
+    <name><![CDATA[Dario Garcia]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Hello World! Look!]]></title>
+    <link href="http:///blog/2015/02/05/hello-world/"/>
+    <updated>2015-02-05T04:29:01-08:00</updated>
+    <id>http:///blog/2015/02/05/hello-world</id>
+    <content type="html"><![CDATA[<p>Testing out <strong>Octopress</strong>!
+<!-- more -->
+El tema del <em>apotema</em></p>
+
+<p><code>scala Sample usage of the Numeric typeclass
+def f[A](x: A, y: A)(implicit ev: Numeric[A]) = ev.plus(x, y)
+</code></p>
+
+<p><code>python
+def f(x, y):
+    return x + y
+</code></p>
+
+<script type="math/tex; mode=display">f(x) = \frac{1}{\sqrt{2\pi\sigma^2}}</script>
+
+<blockquote>
+  <p>Not the sharpest tool in the shed</p>
+</blockquote>
+
+<pre><code>But you can call me scarface, snorting mountains of cocaine
+</code></pre>
+
+]]></content>
+  </entry>
+  
+</feed>
